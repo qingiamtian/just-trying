@@ -1,4 +1,2 @@
 # just-trying
-try github 
-blblblblblblbl
-wwwwwwwwwwwwww
+try github first step
